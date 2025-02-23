@@ -176,7 +176,7 @@ public class WebSocketConsoleApp
             .AddColumn(new TableColumn("[blue]Faulted[/]")).Centered()
             .AddColumn(new TableColumn("[blue]Msgs (accept/attempt)[/]")).Centered()
             .AddColumn(new TableColumn("[blue]Exec.Time (min/max/last)[/]")).Centered()
-            .AddColumn(new TableColumn("[blue]Count (loop/fault/connect))[/]")).Centered()
+            .AddColumn(new TableColumn("[blue]Count (loop/fault/connect)[/]")).Centered()
             .AddColumn(new TableColumn("[blue]Fault Msg[/]")).Centered()
             .Title("[bold]Service Status[/]");
 
